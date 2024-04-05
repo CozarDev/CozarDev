@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Pedro Cózar 👋
+# Hola, mi nombre es Pedro Cózar 👋
 ### Estudiante de grado superior Desarrollo de Aplicaciones Multiplataforma
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
